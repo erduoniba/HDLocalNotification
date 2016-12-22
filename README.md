@@ -279,3 +279,6 @@ func applicationDidEnterBackground(_ application: UIApplication) {
 
 
 
+完整项目地址：  [HDLocalNotification](https://github.com/erduoniba/HDLocalNotification)
+
+欢迎 **star** 
